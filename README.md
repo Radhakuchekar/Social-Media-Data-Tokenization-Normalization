@@ -1,5 +1,7 @@
 # Social-Media-Data-Tokenization-Normalization
-Problem Statement: The goal of the assignment is to write a social media data tokenizer. The input of the code will be a set of  posts/tweets and the output will be the tokens in each post/tweet.
+
+## Problem Statement: 
+The goal of the assignment is to write a social media data tokenizer. The input of the code will be a set of  posts/tweets and the output will be the tokens in each post/tweet.
 
 ## Data Scraping:
 
